@@ -1,0 +1,68 @@
+{
+    "name": "miiCard",
+    "description": "<p>miiCard (My Internet Identity) is a global Identity as a Service solution that proves &nbsp;&lsquo;you are who you say you are&rsquo;, &nbsp;purely online, in minutes and to the same level as a physical passport or photo ID check. &nbsp;Through a patented process that leverages the trust between an individual and their financial institution, miiCard establishes identity to Level of Assurance 3+ and meets Know Your Customer and Anti-Money Laundering identity guidelines, enabling the sale of regulated products and services purely online. &nbsp;Combining online identity proofing with strong authentication, miiCard provides the trust and security required for people and businesses to meet and transact with confidence in a purely digital environment.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/847_logo.png",
+    "tags": [
+        "api provider",
+        "api united kingdom",
+        "authentication",
+        "have api",
+        "identities",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/miicard\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "miiCard",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/847_logo.png",
+            "humanURL": "http:\/\/www.miicard.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/miicard-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/sts.miicard.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.miicard.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.miicard.com\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/miicard"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.miicard.com\/developers"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/miiCard"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/miicard"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.miicard.com"
+        }
+    ]
+}
